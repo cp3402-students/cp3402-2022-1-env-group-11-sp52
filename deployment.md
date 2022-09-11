@@ -13,4 +13,14 @@ To develop our site comprehensively, we used multiple websites to create and man
 ### Site Hosting
 **Pantheon:** After finishing the part of site building, the last step to do is to host our site.   Pantheon is a hosting service website which could be used with WordPress. With the hosting service, our sites could be seen by the people all around the world, instead of just the local environment. Pantheon could be accessed here: https://pantheon.io/
 ## Developing Environment
+### Local Environment
+In our project, most of the tasks are done in WordPress. All of the members would receive a personal account that could enter the backstage of our sites. After finishing the assigned part on the Staging site, we would report our progress on the discord. After the leader checked and tested the edited part, we would export our site and push it to our github repository to do a version control. 
+### Hosted Environment
+The tested pages could be used to the Production sites with WordPress. By the help of WordPress the new developers could easily clone the old page to ensure all of the setting are follow the original pages.
+
+**Staging Site:** https://dev-baizonn-learning-center.pantheonsite.io/
+The “dev” in the url shows that this website is created for development and testing. All of the changes should be tested on this website first before they are applied for the Production site. 
+
+**Production Site:** https://live-baizonn-learning-center.pantheonsite.io/
+
 ## Developing Workflows
