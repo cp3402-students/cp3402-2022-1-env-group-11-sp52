@@ -17,3 +17,25 @@ To allow for ease of future modification of this Wordpress site, the following o
 5. **SCHEDULE:** The academic calendar and schedule description are found on the schedule page. A call to action button within this block is linked to the registration page and can be changed as necessary using the WordPress editor.
 
 6. **CONTACT US:** The contact page includes all the standard information — name, location, email, and so forth. These can be edited directly from WordPress. The map image links to Google Maps.
+
+## SubPages
+
+1. **LEARNING ENVIRONMENT:** The learning environment page, a sub-page of the About Us web page, offers further details about the Baizonn Learning Center. It can be edited using the WordPress editor or Elementor plugin.
+
+2. **STUDENT EXPERIENCE:** The student experience page is a component of the About Us website that features recent learning center-related news and a call to action button in the footer. It can be modified using the WordPress editor or the Elementor plugin.
+
+3. **CLASSES:** Additional courses are available on the Classes page, a subpage of the About Us page, which also has a call to action button in the footer. Either the Elementor plugin or the WordPress editor can be used to edit it.
+
+4. **REGISTRATION:** The Registration/sign-up page is a subpage of the Contact Us page, however, it can be moved to the main menu if necessary. It has a registration form that was developed using the "Fluent forms" plugin. Users can fill up this form, and an email will then be sent to the specified inbox after submission.
+
+##Plugins
+
+WordPress uses Plugins to gain additional functionality, features, and tools that are not theme-specific, meaning you could use the same theme and end up with entirely different sites in terms of function and potential. It is important to note that much of the functionality and plugins can be found in the sidebar widget area. For this site, we took advantage of a number of useful plugins to enhance the site. Each plugin, its use, and any useful details can be found below:
+
+1. **Elementor:** Elementor is the leading website building platform for WordPress, enabling web creators to build professional, pixel-perfect websites with an intuitive visual builder. Quickly create amazing websites for your clients or your business with complete control over every piece, without writing a single line of code. Join a vast community of web creators from all around the world who deliver exceptional websites using Elementor. You can find more information on the plugin and extra features for premium use here: https://wordpress.org/plugins/elementor/
+
+2. **Fluent Forms:** This plugin offers you all the premium features, plus many more completely unique additional features. A perfect WordPress Form builder plugin should be developed in a way so that you don’t have to code every time you need to integrate a form in your website, but can be set up in minutes Information regarding this plugin can be found here: https://wordpress.org/plugins/fluentform/
+
+3. **Essential Addons for Elementor:** This plugin enhances your Elementor page-building experience with 80+ creative elements and extensions. Add powers to your page builder using our easy-to-use elements which were designed to make your next WordPress page and post design easier and prettier than ever before. You can find more information on the plugin and extra features for premium use here: https://wordpress.org/plugins/essential-addons-for-elementor-lite/
+
+4. **Templately:** This plugin saves all your designs with Templately & deploys on hundreds of websites with 1-click. Increase productivity and power up your whole team to build websites faster than ever before. You can find more information on the plugin and extra features for premium use here: https://wordpress.org/plugins/templately/#description
