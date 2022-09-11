@@ -9,7 +9,8 @@ To develop our site comprehensively, we used multiple websites to create and man
 
 **GitHub:** GitHub is a great developing tool that allows a team to take version control for their project. For example, while a group of people are working on a program, they have to push and pull the files frequently. All of the members could easily know how the program is progressing by reading the commits. GitHub could be accessed here: https://github.com/
 
-**Trello:** Trello is a tasks progress control tool that allows a group of developers to distribute the tasks and track the progress. For example, the leader of a group could assign a member to a task, and this member has to mark this task as done when finished. It would help a lot and prevent members from doing the same tasks. Trello could be access here: https://trello.com/
+**Trello:** Trello is a tasks progress control tool that allows a group of developers to distribute the tasks and track the progress. For example, the leader of a group could assign a member to a task, and this member has to mark this task as done when finished. It would help a lot and prevent members from doing the same tasks. Trello could be accessed here: https://trello.com/
 ### Site Hosting
+**Pantheon:** After finishing the part of site building, the last step to do is to host our site.   Pantheon is a hosting service website which could be used with WordPress. With the hosting service, our sites could be seen by the people all around the world, instead of just the local environment. Pantheon could be accessed here: https://pantheon.io/
 ## Developing Environment
 ## Developing Workflows
