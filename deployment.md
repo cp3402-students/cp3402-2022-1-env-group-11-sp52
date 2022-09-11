@@ -7,9 +7,9 @@ To develop our site comprehensively, we used multiple websites to create and man
 ### Developing Management
 **Discord:** Discord is an application that allows users to build a server to contact other users with texts and voice. In our project, Discord is adopted as the main contacting platform that group members could ask questions and track the developing progresses immediately. Discord could be downloaded here: https://discord.com/
 
-**GitHub:** 
+**GitHub:** GitHub is a great developing tool that allows a team to take version control for their project. For example, while a group of people are working on a program, they have to push and pull the files frequently. All of the members could easily know how the program is progressing by reading the commits. GitHub could be accessed here: https://github.com/
 
-**Trello:** 
+**Trello:** Trello is a tasks progress control tool that allows a group of developers to distribute the tasks and track the progress. For example, the leader of a group could assign a member to a task, and this member has to mark this task as done when finished. It would help a lot and prevent members from doing the same tasks. Trello could be access here: https://trello.com/
 ### Site Hosting
 ## Developing Environment
 ## Developing Workflows
