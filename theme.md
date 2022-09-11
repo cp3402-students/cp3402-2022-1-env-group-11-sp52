@@ -6,11 +6,26 @@ Educational WordPress Theme is an elegant theme created for better-looking educa
 
 ## Theme components 
 
+****
+
+****
+
+****
+
+****
+
+****
+
+****
+
+**Images** - Most of the images are the default ones given in the given project folder. In some pages, high quality images from free sources are added to highlight the purpose and functionality of that page.
+
+**Widgets** - The countdown timer widgets are added to let the users know the details of the event time at a single glance.
 
 ## Layout Overview 
 
 **Two-column layout** - 
 
-**Gallery Display** - 
+**Gallery Display** - To display the multiple images, the gallery view is used so that all the required images are arranged in a compact design without taking much space.
 
 **Animation Effects** - Most of the contents are animated using the fade-in and slide-down effects for attractiveness. Some important points are animated with pop-up actions to gain attention.
