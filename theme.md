@@ -6,17 +6,15 @@ Educational WordPress Theme is an elegant theme created for better-looking educa
 
 ## Theme components 
 
-****
+**Theme header** - 
 
-****
+**Menu bar** - 
 
-****
+**style.css** - 
 
-****
+**customizer.css** - 
 
-****
-
-****
+**Footer** - 
 
 **Images** - Most of the images are the default ones given in the given project folder. In some pages, high quality images from free sources are added to highlight the purpose and functionality of that page.
 
