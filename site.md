@@ -28,7 +28,7 @@ To allow for ease of future modification of this Wordpress site, the following o
 
 4. **REGISTRATION:** The Registration/sign-up page is a subpage of the Contact Us page, however, it can be moved to the main menu if necessary. It has a registration form that was developed using the "Fluent forms" plugin. Users can fill up this form, and an email will then be sent to the specified inbox after submission.
 
-##Plugins
+## Plugins
 
 WordPress uses Plugins to gain additional functionality, features, and tools that are not theme-specific, meaning you could use the same theme and end up with entirely different sites in terms of function and potential. It is important to note that much of the functionality and plugins can be found in the sidebar widget area. For this site, we took advantage of a number of useful plugins to enhance the site. Each plugin, its use, and any useful details can be found below:
 
