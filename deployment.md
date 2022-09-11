@@ -24,3 +24,17 @@ The “dev” in the url shows that this website is created for development and 
 **Production Site:** https://live-baizonn-learning-center.pantheonsite.io/
 
 ## Developing Workflows
+### Developing instructions
+To help all of the developers follow the developing progresses, here’s the complete instructions. 
+
+1. Check the Trello to find the task that you’re assigned.
+2. Login into the Staging Site Dashboard of WordPress with the account and password that was provided in the discord server.
+3. Click the “Page”, and select the page that you are assigned.
+4. Start to edit with Elementor
+5. After finishing the changes, click “Preview Changes”
+6. After checking “Preview Changes”, click “UPDATE”
+7. Notice the team leader in the discord server to check if the page in Staging site is acceptable
+8. Apply the changes which have been checked by the team leader to the Production Site
+9. After finishing all of the tasks, go back to Trello and mark the tasks as done
+
+
