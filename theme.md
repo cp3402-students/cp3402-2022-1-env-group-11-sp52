@@ -2,6 +2,8 @@
 
 ## Theme Description 
 
+While you can change various functions and features of the site in-site via Wordpress, the look, feel, and many important factors are only able to be modified by changing the theme's code. Theme changes can drastically change how the site looks and if all aspects are displayed correctly, so be mindful of your process when applying changes (check out the deployment.md for our local setups and how such changes should be made). Information regarding the theme, how it was created, and the major points to look for when modifying it can be found below.
+
 Educational WordPress Theme is an elegant theme created for better-looking educational websites. Created with some high-quality source codes, this theme gives a great online space to all the users and brings amazing features. It manages to make our website striking as with the implementation of wonderful and catchy animations to the design. On the homepage, it has a well-crafted content space showing details regarding the learning center, faculty, discount, schedule, contact information, and more. The theme is entirely made responsive to make sure that the website works flawlessly across several devices such as mobile phones, tablets, laptops, and desktops.
 
 ## Theme components 
@@ -32,6 +34,6 @@ Educational WordPress Theme is an elegant theme created for better-looking educa
 
 **Animation Effects** - Most of the contents are animated using the fade-in and slide-down effects for attractiveness. Some important points are animated with pop-up actions to gain attention.
 
-**Clolr scheme** - Most of the pages are designed with bright-contrast headers and footers with inserted image, white page background and black text colors. In the Discount page, a dark blue background is applied together with orange buttons and white texts, making an appearance of the night theme for more attractiveness.
+**Color scheme** - Most of the pages are designed with bright-contrast headers and footers with inserted image, white page background and black text colors. In the Discount page, a dark blue background is applied together with orange buttons and white texts, making an appearance of the night theme for more attractiveness.
 
 **Font** - Most of the contents are written in the default fonts from the site's Typography.
