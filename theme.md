@@ -10,9 +10,13 @@ Educational WordPress Theme is an elegant theme created for better-looking educa
 
 **Menu bar** - 
 
-**style.css** - 
+**functions.php** - The main function that controls and supports the entire theme structure. Defines the tags and positions of all the posts that we uploaded.
 
-**customizer.css** - 
+**style.css** - The original theme stylesheet of the website. It stores all the changes and adjustments that we did to customize the theme of our site.
+
+**customizer.css** - Sto
+
+**block.css** - Keeps the style adjustments to the block content of the pages.
 
 **Footer** - 
 
@@ -27,3 +31,7 @@ Educational WordPress Theme is an elegant theme created for better-looking educa
 **Gallery Display** - To display the multiple images, the gallery view is used so that all the required images are arranged in a compact design without taking much space.
 
 **Animation Effects** - Most of the contents are animated using the fade-in and slide-down effects for attractiveness. Some important points are animated with pop-up actions to gain attention.
+
+**Clolr scheme**
+
+**Font**
