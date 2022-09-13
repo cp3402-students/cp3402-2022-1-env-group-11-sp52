@@ -1,12 +1,12 @@
 # Theme Details
 
-## Theme Description 
+## Theme Description
 
 While you can change various functions and features of the site in-site via Wordpress, the look, feel, and many important factors are only able to be modified by changing the theme's code. Theme changes can drastically change how the site looks and if all aspects are displayed correctly, so be mindful of your process when applying changes (check out the deployment.md for our local setups and how such changes should be made). Information regarding the theme, how it was created, and the major points to look for when modifying it can be found below.
 
 Educational WordPress Theme is an elegant theme created for better-looking educational websites. Created with some high-quality source codes, this theme gives a great online space to all the users and brings amazing features. It manages to make our website striking as with the implementation of wonderful and catchy animations to the design. On the homepage, it has a well-crafted content space showing details regarding the learning center, faculty, discount, schedule, contact information, and more. The theme is entirely made responsive to make sure that the website works flawlessly across several devices such as mobile phones, tablets, laptops, and desktops.
 
-## Theme components 
+## Theme components
 
 **Theme header** - It features the default logo of our website and the names for the respective pages.
 
@@ -26,7 +26,7 @@ Educational WordPress Theme is an elegant theme created for better-looking educa
 
 **Widgets** - The countdown timer widgets are added to let the users know the details of the event time at a single glance.
 
-## Layout Overview 
+## Layout Overview
 
 **Two-column layout** - An image is placed on one side and a text block on the another side to keep the contents simple and clear.
 
