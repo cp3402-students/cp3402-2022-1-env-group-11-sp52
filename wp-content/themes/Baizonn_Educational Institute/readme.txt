@@ -8,7 +8,7 @@ Author URI: https://www.themespride.com/
 Theme URI: https://www.themespride.com/themes/free-educational-wordpress-theme/
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Tags: wide-blocks, block-styles, one-column, two-columns, right-sidebar, left-sidebar, three-columns, four-columns, grid-layout, custom-colors, custom-header, custom-background, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, blog, photography, education
+Tags: wide-blocks, block-styles, one-column, two-columns, right-sidebar, left-sidebar, three-columns, four-columns, grid-layout, custom-colors, custom-header, custom-background, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, flexible-header, blog, photography, education
 
 == Description ==
 
@@ -37,6 +37,12 @@ Source: http://fontawesome.io/
 = 1.1 =
 	. Added Get Started.
 	. Updated Footer Link.
+
+= 1.2 =
+	. Added sticky header.
+
+= 1.3 =
+	. Resolved error.
 
 == Screenshots ==
 
