@@ -8,8 +8,8 @@ Theme URI: https://www.themespride.com/themes/free-educational-wordpress-theme/
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Description: Education institution is a wonderful free theme for e-learning platforms, instructors, education academies, online education academies, coaching centers, colleges, high schools, education centers, tutors, kindergartens,  learning and teaching platforms, universities, and more. Developers have made it simple and adaptable to every screen as well as bowsers by making its layout responsive and mobile-friendly. Its user-friendly theme interface helps anyone to create a fine website on its own. This theme is flexible with a customizable design and has personalization options in it to bring in the changes. With social media icons included in the theme, promoting your content as well as your work is way too easy as you can link various social media accounts to reach out to a wider audience. There is a Team, Testimonial, Blog, and About Us, as well as other sections in the theme. This theme includes a beautiful banner as well as many Call to Action Button (CTA) so that there are always better chances of getting your audience converted into your valued clients. They also make the website more interactive and as it is built using the Bootstrap framework, you will get a robust design that can handle traffic well. It has optimized codes for faster page load time and many other features.
-Tags: wide-blocks, block-styles, one-column, two-columns, right-sidebar, left-sidebar, three-columns, four-columns, grid-layout, custom-colors, custom-header, custom-background, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, blog, photography, education
-Version: 1.1
+Tags: wide-blocks, block-styles, one-column, two-columns, right-sidebar, left-sidebar, three-columns, four-columns, grid-layout, custom-colors, custom-header, custom-background, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, full-width-template, sticky-post, theme-options, threaded-comments, flexible-header, blog, photography, education
+Version: 1.3
 Tested up to: 6.0
 Requires PHP: 5.6
 */
@@ -51,10 +51,10 @@ nav.woocommerce-MyAccount-navigation ul li{
 .headerbox,.menubar,.page-template-front-page .menubar,.page-template-front-page .innermenubox{
     background: transparent;
 }
-.page-template-front-page .menubar{
+/* .page-template-front-page .menubar{
     position: static;
     margin: 0;
-}
+} */
 .page-template-front-page .headerbox {
     padding: 15px 0;
 }
@@ -121,7 +121,6 @@ a.register-btn {
 .courses-box-content h3,.courses-box-content p {
     padding: 0 15px;
 }
-
 .headerbox i {
     color: #fff;
     background: #f14d5d;
@@ -131,6 +130,33 @@ a.register-btn {
 
 #main-content a{
   color: #fff !important;
+}
+
+.page-template-front-page .menubar {
+    background: #fff;
+    position: relative;
+    margin-top: 0px;
+    padding:0px;
+}
+.page-template-front-page .headerbox {
+    padding: 0px 0;
+}
+.menubar.login-user.stick_head {
+    background: #fff !important;
+    left: 0;
+}
+.menubar{
+    transition: none;
+}
+.page-template-front-page .stick_head {
+    background: #fff !important;
+    left: 0;
+}
+
+@media screen and (max-width: 560px){
+  .menubar.login-user.stick_head {
+    margin-top: 0px;
+}
 }
 
 @media screen and (max-width: 1000px){
