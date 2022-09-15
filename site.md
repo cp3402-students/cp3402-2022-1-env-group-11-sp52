@@ -1,8 +1,6 @@
 # Site Development Overview
 
-## Site Overview
-
-To allow for ease of future modification of this Wordpress site, the following overview will attempt to outline the site's layout, logic, widgets, and other features. The site itself is composed of pages and posts, each allowing for different kinds of customisation. The following main sections (PAGES) and their subsequent posts and features are listed here:
+To make the future modification of this Wordpress site easier, the following overview will attempt to outline the layout, logic, widgets, and other features of the site. The site is composed of pages and subpages. The following main sections for the pages and their subsequent subpages and features are listed here:
 
 ## Pages
 
@@ -18,7 +16,7 @@ To allow for ease of future modification of this Wordpress site, the following o
 
 6. **CONTACT US:** The contact page includes all the standard information — name, location, email, and so forth. These can be edited directly from WordPress. The map image links to Google Maps.
 
-## Subpages
+### Subpages
 
 1. **LEARNING ENVIRONMENT:** The learning environment page, a sub-page of the About Us web page, offers further details about the Baizonn Learning Center. It can be edited using the WordPress editor or Elementor plugin.
 
@@ -30,7 +28,7 @@ To allow for ease of future modification of this Wordpress site, the following o
 
 ## Plugins
 
-WordPress uses Plugins to gain additional functionality, features, and tools that are not theme-specific, meaning you could use the same theme and end up with entirely different sites in terms of function and potential. It is important to note that much of the functionality and plugins can be found in the sidebar widget area. For this site, we took advantage of a number of useful plugins to enhance the site. Each plugin, its use, and any useful details can be found below:
+WordPress uses Plugins to gain additional functionality, features, and tools. Note that most of the plugins and their additional functionality can be found in the sidebar of the WordPress dashboard. This site uses several practical and helpful plugins to improve its features. Each plugin, its use, and any useful details can be found below:
 
 1. **Elementor:** Elementor is the leading website building platform for WordPress, enabling web creators to build professional, pixel-perfect websites with an intuitive visual builder. Quickly create amazing websites for your clients or your business with complete control over every piece, without writing a single line of code. Join a vast community of web creators from all around the world who deliver exceptional websites using Elementor. You can find more information on the plugin and extra features for premium use here: <https://wordpress.org/plugins/elementor/>
 
