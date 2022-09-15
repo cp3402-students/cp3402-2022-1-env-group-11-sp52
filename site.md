@@ -18,7 +18,7 @@ To allow for ease of future modification of this Wordpress site, the following o
 
 6. **CONTACT US:** The contact page includes all the standard information — name, location, email, and so forth. These can be edited directly from WordPress. The map image links to Google Maps.
 
-## SubPages
+## Subpages
 
 1. **LEARNING ENVIRONMENT:** The learning environment page, a sub-page of the About Us web page, offers further details about the Baizonn Learning Center. It can be edited using the WordPress editor or Elementor plugin.
 
